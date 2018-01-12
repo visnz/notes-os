@@ -1,5 +1,7 @@
 # Kernel
 
+[Linux Kernel Official](https://www.kernel.org/)
+
 Kernel是什么？[wikipedia](https://www.wikiwand.com/zh-hant/%E5%86%85%E6%A0%B8)的介绍是
 
 > 在計算機科學中，內核又稱核心，是一個電腦程式，**用來管理軟體發出的資料I/O要求，將這些要求轉譯為資料處理的指令，交由CPU及電腦中其他電子元件進行處理，是現代操作系統中最基本的部分**。
