@@ -1,6 +1,15 @@
-# :penguin:
+# ![](https://www.kernel.org/theme/images/logos/tux.png)计算机操作系统
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+课程内笔记+复习习题集锦
 
-test
+感谢陪伴我复习的舍友帮忙一起整理了这份疑似有用的笔记
+
+本笔记适合以下人群
+
+* 相同考纲的师弟师妹
+* 想要快速了解计算机操作系统工作原理
+* 稍微有计算机基础（数据结构、算法等基础）的朋友
+* 闲着又爱学习的朋友
+
+
 
