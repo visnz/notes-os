@@ -19,4 +19,6 @@
   * [分段管理](cun-chu-guan-li/fen-duan-guan-li.md)
   * [虚拟存储技术](cun-chu-guan-li/xu-ni-cun-chu-ji-zhu.md)
   * [请求分页技术](cun-chu-guan-li/qing-qiu-fen-ye-ji-zhu.md)
+* [文件管理](wen-jian-guan-li.md)
+  * [文件存储](wen-jian-guan-li/wen-jian-cun-chu.md)
 
