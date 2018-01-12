@@ -1,6 +1,6 @@
 # Kernel
 
-[Linux Kernel Official](https://www.kernel.org/)
+
 
 Kernel是什么？[wikipedia](https://www.wikiwand.com/zh-hant/%E5%86%85%E6%A0%B8)的介绍是
 
@@ -18,4 +18,24 @@ Kernel是什么？[wikipedia](https://www.wikiwand.com/zh-hant/%E5%86%85%E6%A0%B
 ![kernel](./.src/pic/image2.png)
 
 ## 分类
-通常在内核设计上，会被分为微内核与宏内核
+通常在内核设计上，会被分为微内核与[宏内核](https://www.wikiwand.com/zh-hant/%E5%AE%8F%E5%86%85%E6%A0%B8)
+
+**宏内核**在硬件之上定义了一个高阶抽象界面，用一组原语（或称为系统调用）来实现操作系统的功能。
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Kernel-monolithic-CN.png)
+
+**微内核**由简单硬件抽象层和一组关键原语组成，仅仅包含建立一个系统的必要部分。
+![](https://upload.wikimedia.org/wikipedia/commons/8/84/Kernel-microkernel-CN.png)
+
+
+
+## 双态
+Kernel提供两种运行模式，即**用户态**与**内核态**（有许多其他的名称，如管态目态）
+用户向内核态提出操作请求，内核检查并响应，后返回结果。
+用户态驻留应用和程序包，内核态拥有各种管理系统的引擎。
+
+由此提供了两种对Kernel的调用
+
+
+
+Kernel官方网站：[Linux Kernel Official Website](https://www.kernel.org/)
+
