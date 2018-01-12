@@ -25,4 +25,8 @@
   * [Linux文件系统](wen-jian-guan-li/linuxwen-jian-xi-tong.md)
 * [设备管理](she-bei-guan-li.md)
   * [缓冲技术](she-bei-guan-li/huan-chong-ji-zhu.md)
+  * [设备分配与调度](she-bei-guan-li/she-bei-fen-pei.md)
+* [系统设计原则](xi-tong-she-ji-yuan-ze.md)
+* [发展与安全](fa-zhan-yu-an-quan.md)
+* [题目](ti-mu.md)
 
