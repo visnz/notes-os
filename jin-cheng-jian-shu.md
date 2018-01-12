@@ -44,3 +44,10 @@
 #### linux下的PCB
 称为task_struct的数据结构，包含了进程状态、调度信息、标识符、内部进程通信、链接信息、时间和计时器、文件系统、虚拟内存、处理器信息
 ![](./.src/pic/image4.png)
+
+### 进程状态
+三种状态
+- <codepub>running</codepub>：等待中断事件以进入blocked（如io），或时间片到则切换到ready，等待下次执行
+- <codepub>ready</codepub>：等待唤醒，唤醒后进入running
+- <codepub>blocked</codepub>：等待事件完成以进入ready
+![](https://images2015.cnblogs.com/blog/406535/201706/406535-20170627155218430-919824019.png)
