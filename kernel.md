@@ -9,4 +9,11 @@ Kernel是什么？[wikipedia](https://www.wikiwand.com/zh-hant/%E5%86%85%E6%A0%B
 >
 > (有略微删减)
 
+结构简图
+![kernel](./.src/pic/image.png)
+实现的核心功能
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/440px-Kernel_Layout.svg.png)
+![kernel](./.src/pic/image2.png)
 
+## 分类
+通常在内核设计上，会被分为微内核与宏内核
