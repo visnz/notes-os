@@ -21,4 +21,8 @@
   * [请求分页技术](cun-chu-guan-li/qing-qiu-fen-ye-ji-zhu.md)
 * [文件管理](wen-jian-guan-li.md)
   * [文件存储](wen-jian-guan-li/wen-jian-cun-chu.md)
+  * [目录管理](wen-jian-guan-li/mu-lu-guan-li.md)
+  * [Linux文件系统](wen-jian-guan-li/linuxwen-jian-xi-tong.md)
+* [设备管理](she-bei-guan-li.md)
+  * [缓冲技术](she-bei-guan-li/huan-chong-ji-zhu.md)
 
